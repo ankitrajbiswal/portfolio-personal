@@ -364,3 +364,9 @@ body{
         height: 450px;
     }
 }
+
+#home {
+text-decoration: none;
+    color: #fff
+}
+
